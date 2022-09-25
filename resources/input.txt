@@ -1,0 +1,6 @@
+player.move(forward)
+player.turn(right)
+for i in range(6):
+	player.move(forward)
+player.pickup(gun)
+player.aim()

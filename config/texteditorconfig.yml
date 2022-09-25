@@ -1,0 +1,17 @@
+#Config for theme of text editor
+
+#Editor colours
+codingBackgroundColor: (255, 255, 255)
+codingScrollBarBackgroundColor: (150, 150, 150)
+lineNumberColor: (0, 0, 0)
+lineNumberBackgroundColor: (255, 255, 255)
+textColor: (0, 0, 0)
+
+#Syntax colors
+textColor_normal: (0, 0, 255)
+textColor_comments: (255, 83, 73)
+textColor_quotes: (255, 16, 240)
+textColor_operators: (255, 16, 240)
+textColor_keywords: (255, 95, 31)
+textColor_function: (0, 255, 0)
+textColor_builtin: (0, 255, 0)

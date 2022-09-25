@@ -1,0 +1,29 @@
+for i in range(4):
+	player.move(forward)
+player.turn(right)
+for i in range(3):
+	player.move(forward)
+player.turn(left)
+for i in range(5):
+	player.move(forward)
+player.turn(left)
+for i in range(3):
+	player.move(forward)
+player.turn(right)
+for i in range(3):
+	player.move(forward)
+player.turn(right)
+for i in range(3):
+	player.move(forward)
+player.turn(left)
+player.move(forward)
+for i in range(2):
+	player.move(forward)
+	player.turn(left)
+	player.move(forward)
+	player.turn(right)
+for i in range(2):
+	player.move(forward)
+player.turn(left)
+for i in range(5):
+	player.move(forward)
